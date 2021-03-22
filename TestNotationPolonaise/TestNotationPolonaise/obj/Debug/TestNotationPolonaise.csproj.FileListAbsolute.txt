@@ -1,0 +1,7 @@
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\bin\Debug\TestNotationPolonaise.exe.config
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\bin\Debug\TestNotationPolonaise.exe
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\bin\Debug\TestNotationPolonaise.pdb
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.csprojAssemblyReference.cache
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.csproj.CoreCompileInputs.cache
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.exe
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.pdb
